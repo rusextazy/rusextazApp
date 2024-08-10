@@ -1,0 +1,10 @@
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\bin\Debug\rusextazApp.exe.config
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\bin\Debug\rusextazApp.exe
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\bin\Debug\rusextazApp.pdb
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.csproj.AssemblyReference.cache
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.LoginForm.resources
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.Properties.Resources.resources
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.csproj.GenerateResource.cache
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.csproj.CoreCompileInputs.cache
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.exe
+D:\Project\c#\MyProject\rusextazApp\rusextazApp\obj\Debug\rusextazApp.pdb
